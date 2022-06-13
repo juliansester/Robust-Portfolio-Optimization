@@ -1,4 +1,4 @@
-# Code for "Markov Decision Processes udner Model Uncertainty"
+# Code for "Markov Decision Processes under Model Uncertainty"
 
 ## Ariel Neufeld, Julian Sester
 
