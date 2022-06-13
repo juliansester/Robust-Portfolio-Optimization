@@ -1,6 +1,6 @@
-# Code for "Robust deep hedging"
+# Code for "Markov Decision Processes udner Model Uncertainty"
 
-## Eva Lutkebohmert, Thorsten Schmidt, Julian Sester
+## Ariel Neufeld, Julian Sester
 
 # Abstract
 
@@ -17,7 +17,7 @@ The Portfolio Optimization procedure from the paper is provided in a [Jupyter No
 
 
 ## Data
-Note that the data of the S&P 500 is directly download from Yahoo Finance.
+Note that the data of the S&P 500 is directly downloaded from Yahoo Finance within the jupyter notebook.
 
 # License
 
