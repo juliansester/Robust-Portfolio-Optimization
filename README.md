@@ -1,6 +1,6 @@
 # Code for "Markov Decision Processes under Model Uncertainty"
 
-## Ariel Neufeld, Julian Sester
+## Ariel Neufeld, Julian Sester, Mario Sikic
 
 # Abstract
 
